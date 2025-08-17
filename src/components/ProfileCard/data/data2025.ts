@@ -1,7 +1,7 @@
 const data = [
   {
     image: "/team2025/Faculty/Amrita.webp",
-    name: "Mrs. Amrita Mathur",
+    name: "Ms. Amrita Mathur",
     title: "Convenor",
     handle: "@amrita",
     url: "https://www.linkedin.com/in/amrita-mathur-1564141a3/",
